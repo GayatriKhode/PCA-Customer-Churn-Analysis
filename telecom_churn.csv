@@ -1,0 +1,501 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,TechSupport,PaymentMethod,Churn
+SYN0001,15,27.25,428.08,One year,DSL,Yes,Electronic check,No
+SYN0002,70,32.82,2168.12,One year,DSL,Yes,Electronic check,No
+SYN0003,4,75.51,298.97,Two year,No,No,Electronic check,Yes
+SYN0004,1,93.29,89.15,Month-to-month,No,No,Bank transfer,Yes
+SYN0005,44,34.2,1536.02,One year,DSL,No,Bank transfer,No
+SYN0006,59,73.26,4424.8,One year,DSL,No,Credit card,No
+SYN0007,25,88.41,2424.74,Month-to-month,No,Yes,Bank transfer,No
+SYN0008,13,59.21,749.74,One year,No,No,Electronic check,Yes
+SYN0009,35,88.16,3168.9,Two year,No,Yes,Credit card,No
+SYN0010,32,39.71,1226.06,One year,Fiber optic,Yes,Credit card,No
+SYN0011,8,45.61,333.22,Month-to-month,Fiber optic,No,Bank transfer,No
+SYN0012,41,44.14,1724.64,One year,Fiber optic,No,Electronic check,No
+SYN0013,72,73.51,5186.23,Two year,No,No,Credit card,No
+SYN0014,18,70.86,1307.99,Month-to-month,DSL,Yes,Electronic check,No
+SYN0015,55,78.68,4112.25,One year,Fiber optic,No,Credit card,No
+SYN0016,2,86.23,166.95,Month-to-month,No,No,Credit card,Yes
+SYN0017,21,65.84,1455.08,Two year,No,No,Credit card,No
+SYN0018,14,103.35,1410.41,One year,No,Yes,Electronic check,Yes
+SYN0019,68,107.66,6752.59,Two year,Fiber optic,No,Electronic check,No
+SYN0020,40,46.55,1948.36,Month-to-month,No,Yes,Electronic check,No
+SYN0021,69,93.93,6047.1,Month-to-month,No,No,Credit card,No
+SYN0022,55,111.79,5916.92,Two year,No,Yes,Credit card,No
+SYN0023,48,64.43,2922.36,Two year,Fiber optic,Yes,Electronic check,No
+SYN0024,71,45.71,3330.51,Month-to-month,DSL,Yes,Credit card,No
+SYN0025,5,102.37,529.15,Month-to-month,No,Yes,Bank transfer,Yes
+SYN0026,17,90.1,1618.89,Two year,No,No,Electronic check,No
+SYN0027,25,33.49,822.36,Two year,Fiber optic,No,Bank transfer,No
+SYN0028,7,85.6,626.55,Two year,DSL,Yes,Bank transfer,No
+SYN0029,14,47.38,652.96,Month-to-month,No,No,Electronic check,Yes
+SYN0030,32,103.7,3419.38,Month-to-month,Fiber optic,Yes,Electronic check,Yes
+SYN0031,2,112.21,223.58,Month-to-month,DSL,No,Bank transfer,No
+SYN0032,8,39.82,304.88,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0033,72,84.57,5745.25,One year,DSL,Yes,Bank transfer,No
+SYN0034,70,30.49,2124.39,One year,DSL,Yes,Credit card,No
+SYN0035,68,39.17,2714.19,Two year,DSL,Yes,Electronic check,No
+SYN0036,31,61.34,1742.56,Two year,DSL,Yes,Credit card,No
+SYN0037,67,53.47,3414.55,One year,DSL,No,Electronic check,No
+SYN0038,39,66.15,2837.04,Month-to-month,DSL,No,Credit card,No
+SYN0039,10,73.39,789.8,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0040,48,50.65,2666.47,One year,No,No,Credit card,No
+SYN0041,68,25.7,1665.28,Two year,Fiber optic,Yes,Electronic check,No
+SYN0042,71,38.99,2681.3,One year,No,Yes,Credit card,No
+SYN0043,34,70.49,2360.03,One year,DSL,Yes,Credit card,No
+SYN0044,1,55.02,57.67,Month-to-month,No,No,Electronic check,Yes
+SYN0045,55,75.48,3766.17,Month-to-month,DSL,Yes,Credit card,No
+SYN0046,71,38.33,2938.59,Month-to-month,DSL,No,Bank transfer,No
+SYN0047,6,105.9,584.92,Month-to-month,No,Yes,Credit card,No
+SYN0048,53,112.65,6539.08,Two year,DSL,Yes,Electronic check,No
+SYN0049,53,27.23,1548.27,Two year,Fiber optic,No,Credit card,No
+SYN0050,35,39.33,1475.27,Two year,DSL,No,Electronic check,No
+SYN0051,59,56.47,3127.25,Month-to-month,DSL,Yes,Credit card,No
+SYN0052,9,112.02,1105.2,One year,Fiber optic,No,Credit card,Yes
+SYN0053,4,35.38,130.44,One year,DSL,No,Electronic check,No
+SYN0054,41,64.28,2472.12,Two year,DSL,No,Credit card,Yes
+SYN0055,56,25.15,1389.05,Two year,No,Yes,Bank transfer,No
+SYN0056,43,81.08,3353.46,Two year,DSL,No,Credit card,No
+SYN0057,52,87.75,4713.51,Two year,DSL,Yes,Bank transfer,No
+SYN0058,23,80.4,1770.39,One year,Fiber optic,Yes,Bank transfer,No
+SYN0059,42,66.85,2792.64,One year,No,Yes,Credit card,No
+SYN0060,22,84.3,1972.71,One year,No,No,Electronic check,No
+SYN0061,40,45.22,1716.49,Month-to-month,DSL,Yes,Electronic check,No
+SYN0062,10,65.99,685.81,Two year,No,Yes,Credit card,No
+SYN0063,32,38.28,1156.08,Two year,DSL,Yes,Bank transfer,No
+SYN0064,67,66.81,4148.02,Two year,DSL,Yes,Bank transfer,No
+SYN0065,68,113.91,8233.88,Two year,Fiber optic,No,Credit card,No
+SYN0066,55,99.75,5882.9,Two year,Fiber optic,Yes,Credit card,No
+SYN0067,32,100.59,3051.01,One year,No,No,Credit card,No
+SYN0068,37,46.1,1586.58,One year,Fiber optic,Yes,Electronic check,No
+SYN0069,20,88.58,1786.7,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0070,27,99.96,2634.35,One year,No,Yes,Credit card,Yes
+SYN0071,46,51.88,2252.56,One year,Fiber optic,Yes,Bank transfer,No
+SYN0072,4,60.0,223.92,Two year,No,No,Credit card,No
+SYN0073,17,113.26,1950.22,Two year,DSL,No,Credit card,Yes
+SYN0074,55,37.21,1997.07,One year,DSL,Yes,Bank transfer,No
+SYN0075,42,55.38,2481.76,One year,Fiber optic,No,Bank transfer,No
+SYN0076,70,29.69,1887.2,One year,DSL,Yes,Credit card,Yes
+SYN0077,32,42.94,1271.36,Month-to-month,No,Yes,Electronic check,No
+SYN0078,28,66.85,1911.95,One year,Fiber optic,Yes,Credit card,No
+SYN0079,15,95.0,1289.82,Month-to-month,Fiber optic,Yes,Credit card,Yes
+SYN0080,49,60.7,3087.69,Two year,DSL,Yes,Credit card,No
+SYN0081,14,87.75,1297.94,One year,No,Yes,Credit card,No
+SYN0082,55,84.54,4974.78,Month-to-month,No,No,Electronic check,No
+SYN0083,14,64.02,834.08,One year,No,No,Credit card,Yes
+SYN0084,67,111.89,7400.04,One year,No,No,Bank transfer,No
+SYN0085,35,54.01,1793.51,Month-to-month,DSL,No,Bank transfer,No
+SYN0086,49,55.28,2552.76,One year,Fiber optic,Yes,Bank transfer,No
+SYN0087,44,50.17,1991.21,Two year,No,No,Credit card,No
+SYN0088,11,46.72,511.46,One year,Fiber optic,Yes,Credit card,No
+SYN0089,58,96.36,5803.26,Month-to-month,Fiber optic,Yes,Bank transfer,Yes
+SYN0090,48,67.59,3277.02,Two year,Fiber optic,No,Credit card,No
+SYN0091,59,49.38,2734.29,One year,DSL,Yes,Credit card,No
+SYN0092,69,110.58,7994.13,Two year,DSL,Yes,Electronic check,No
+SYN0093,68,78.71,5203.36,Month-to-month,DSL,No,Electronic check,Yes
+SYN0094,69,36.39,2733.92,Month-to-month,DSL,No,Credit card,No
+SYN0095,63,34.23,2147.31,Month-to-month,No,No,Bank transfer,No
+SYN0096,7,47.72,333.49,One year,DSL,Yes,Bank transfer,No
+SYN0097,7,38.66,249.97,Two year,Fiber optic,Yes,Electronic check,No
+SYN0098,29,94.81,2947.54,One year,Fiber optic,No,Bank transfer,No
+SYN0099,40,76.18,3123.69,Month-to-month,No,Yes,Electronic check,Yes
+SYN0100,11,39.14,387.72,Month-to-month,No,Yes,Electronic check,No
+SYN0101,61,51.21,3348.48,Month-to-month,Fiber optic,No,Credit card,Yes
+SYN0102,30,108.15,2994.53,Two year,No,Yes,Bank transfer,No
+SYN0103,20,106.76,2260.16,Month-to-month,DSL,Yes,Electronic check,No
+SYN0104,37,64.52,2340.69,One year,No,No,Credit card,No
+SYN0105,70,69.44,5088.8,Month-to-month,No,Yes,Bank transfer,No
+SYN0106,4,33.22,141.42,Two year,No,Yes,Credit card,No
+SYN0107,23,67.35,1703.01,Two year,Fiber optic,No,Electronic check,No
+SYN0108,63,112.21,6816.23,One year,Fiber optic,No,Bank transfer,Yes
+SYN0109,21,54.68,1250.52,Two year,Fiber optic,No,Credit card,No
+SYN0110,71,28.3,1854.95,Month-to-month,Fiber optic,No,Bank transfer,No
+SYN0111,66,99.24,5965.86,Month-to-month,No,No,Bank transfer,No
+SYN0112,64,81.29,4818.62,Month-to-month,DSL,No,Credit card,Yes
+SYN0113,63,35.93,2108.93,Two year,No,Yes,Credit card,No
+SYN0114,71,61.72,4511.58,Month-to-month,DSL,No,Electronic check,Yes
+SYN0115,38,70.8,2552.51,One year,Fiber optic,No,Bank transfer,No
+SYN0116,50,42.15,2013.19,Two year,No,Yes,Electronic check,No
+SYN0117,54,55.59,3137.57,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0118,63,102.87,6263.63,One year,No,No,Bank transfer,No
+SYN0119,49,65.98,3157.35,One year,DSL,Yes,Credit card,No
+SYN0120,53,28.93,1683.07,Two year,Fiber optic,No,Bank transfer,No
+SYN0121,20,69.58,1495.74,Month-to-month,DSL,No,Electronic check,Yes
+SYN0122,68,106.94,7811.4,Month-to-month,No,Yes,Bank transfer,No
+SYN0123,10,67.25,616.05,One year,Fiber optic,No,Credit card,Yes
+SYN0124,69,59.2,3705.65,One year,No,No,Credit card,Yes
+SYN0125,37,114.77,4467.62,Two year,DSL,No,Electronic check,No
+SYN0126,13,64.93,814.44,Two year,Fiber optic,Yes,Electronic check,Yes
+SYN0127,46,58.74,2800.29,Month-to-month,DSL,No,Credit card,Yes
+SYN0128,23,32.11,799.51,One year,No,Yes,Bank transfer,No
+SYN0129,60,82.41,5341.36,One year,Fiber optic,Yes,Bank transfer,No
+SYN0130,21,31.65,726.07,One year,No,No,Credit card,No
+SYN0131,59,101.08,5650.27,Month-to-month,Fiber optic,No,Electronic check,Yes
+SYN0132,38,114.34,3917.47,One year,DSL,No,Bank transfer,No
+SYN0133,7,106.96,764.75,Two year,Fiber optic,No,Electronic check,Yes
+SYN0134,25,80.88,1859.09,Two year,No,Yes,Credit card,No
+SYN0135,6,52.8,293.45,One year,DSL,No,Credit card,No
+SYN0136,42,92.27,4167.12,Month-to-month,DSL,Yes,Credit card,No
+SYN0137,65,107.21,7312.29,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0138,15,67.15,1052.42,Month-to-month,DSL,Yes,Credit card,No
+SYN0139,72,57.92,3856.29,One year,DSL,No,Credit card,No
+SYN0140,34,77.61,2498.27,Two year,Fiber optic,Yes,Credit card,Yes
+SYN0141,72,54.52,4179.69,Two year,DSL,Yes,Credit card,No
+SYN0142,39,83.43,3126.46,Month-to-month,DSL,Yes,Electronic check,No
+SYN0143,13,46.13,584.22,Two year,DSL,No,Bank transfer,No
+SYN0144,70,62.72,4526.43,Two year,No,Yes,Bank transfer,No
+SYN0145,53,109.51,5738.31,One year,DSL,No,Electronic check,No
+SYN0146,47,33.94,1562.68,Two year,Fiber optic,No,Electronic check,Yes
+SYN0147,16,110.41,1815.84,One year,DSL,Yes,Credit card,No
+SYN0148,7,95.81,714.91,Month-to-month,DSL,Yes,Electronic check,Yes
+SYN0149,28,98.17,2475.44,Month-to-month,Fiber optic,Yes,Credit card,No
+SYN0150,19,113.88,2233.42,Two year,Fiber optic,Yes,Electronic check,Yes
+SYN0151,2,57.24,107.02,Month-to-month,No,No,Electronic check,Yes
+SYN0152,54,72.35,4124.14,Two year,DSL,No,Bank transfer,No
+SYN0153,14,65.68,971.61,Month-to-month,No,Yes,Credit card,No
+SYN0154,67,52.15,3736.75,Two year,DSL,Yes,Bank transfer,No
+SYN0155,14,69.12,988.64,One year,DSL,Yes,Bank transfer,Yes
+SYN0156,36,81.19,3211.98,Two year,No,No,Bank transfer,No
+SYN0157,59,70.5,4285.05,One year,DSL,Yes,Credit card,No
+SYN0158,28,63.71,1747.75,Month-to-month,Fiber optic,No,Bank transfer,No
+SYN0159,41,63.41,2696.95,Two year,Fiber optic,No,Electronic check,No
+SYN0160,12,99.86,1255.55,Month-to-month,Fiber optic,Yes,Credit card,No
+SYN0161,72,30.4,2023.43,Two year,No,No,Credit card,No
+SYN0162,55,103.13,5459.39,Two year,DSL,No,Credit card,Yes
+SYN0163,65,44.15,2783.72,Two year,Fiber optic,Yes,Electronic check,No
+SYN0164,15,93.63,1537.75,Two year,DSL,No,Credit card,No
+SYN0165,72,27.36,1844.01,Two year,No,No,Electronic check,No
+SYN0166,40,107.94,4374.87,One year,DSL,Yes,Electronic check,No
+SYN0167,19,91.69,1714.18,Month-to-month,DSL,Yes,Bank transfer,Yes
+SYN0168,48,53.05,2370.99,One year,No,Yes,Electronic check,No
+SYN0169,7,85.66,612.46,One year,Fiber optic,No,Bank transfer,Yes
+SYN0170,28,92.94,2489.51,Month-to-month,Fiber optic,No,Electronic check,Yes
+SYN0171,63,72.42,5004.51,One year,DSL,Yes,Bank transfer,Yes
+SYN0172,27,52.13,1359.13,Month-to-month,DSL,No,Bank transfer,Yes
+SYN0173,56,40.81,2312.2,One year,No,Yes,Credit card,No
+SYN0174,46,31.49,1436.88,Two year,DSL,No,Electronic check,Yes
+SYN0175,41,76.82,2907.21,Two year,Fiber optic,No,Bank transfer,Yes
+SYN0176,42,40.47,1678.23,Two year,Fiber optic,No,Electronic check,Yes
+SYN0177,56,78.0,4582.74,Two year,DSL,No,Bank transfer,No
+SYN0178,22,31.87,680.26,Two year,DSL,Yes,Bank transfer,No
+SYN0179,19,46.26,896.94,Month-to-month,Fiber optic,Yes,Electronic check,No
+SYN0180,10,40.94,430.68,Two year,Fiber optic,No,Credit card,No
+SYN0181,42,102.78,3944.04,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0182,39,96.67,3449.06,Two year,DSL,No,Credit card,No
+SYN0183,5,30.12,153.43,One year,DSL,Yes,Credit card,No
+SYN0184,71,110.88,8111.55,Two year,DSL,No,Credit card,No
+SYN0185,61,70.12,4689.98,Month-to-month,Fiber optic,Yes,Bank transfer,Yes
+SYN0186,23,28.52,658.94,Two year,Fiber optic,No,Credit card,Yes
+SYN0187,48,107.61,5266.4,One year,Fiber optic,No,Credit card,No
+SYN0188,43,30.93,1264.02,Month-to-month,No,No,Bank transfer,No
+SYN0189,20,55.0,1058.25,Two year,No,Yes,Bank transfer,No
+SYN0190,51,36.61,1821.06,Two year,DSL,No,Credit card,No
+SYN0191,17,85.31,1499.71,Two year,No,Yes,Credit card,No
+SYN0192,3,57.63,162.24,Month-to-month,DSL,No,Bank transfer,No
+SYN0193,20,31.94,617.95,Month-to-month,No,Yes,Credit card,No
+SYN0194,17,78.75,1411.34,Month-to-month,DSL,Yes,Credit card,No
+SYN0195,22,89.91,2064.89,Month-to-month,Fiber optic,No,Credit card,No
+SYN0196,37,92.72,3750.1,One year,DSL,Yes,Bank transfer,No
+SYN0197,25,58.11,1533.56,Two year,Fiber optic,No,Bank transfer,No
+SYN0198,54,111.96,5504.35,Month-to-month,No,Yes,Bank transfer,No
+SYN0199,48,74.91,3296.43,Month-to-month,No,Yes,Bank transfer,Yes
+SYN0200,58,106.48,6567.02,Month-to-month,Fiber optic,Yes,Electronic check,No
+SYN0201,4,62.34,243.68,One year,No,No,Electronic check,Yes
+SYN0202,29,27.54,740.77,Month-to-month,No,No,Electronic check,Yes
+SYN0203,61,87.65,5470.0,Month-to-month,No,No,Bank transfer,No
+SYN0204,3,48.03,152.05,Month-to-month,No,No,Electronic check,Yes
+SYN0205,16,29.3,432.31,One year,No,No,Electronic check,No
+SYN0206,69,26.48,1696.87,Two year,No,Yes,Credit card,No
+SYN0207,46,46.65,2349.61,One year,DSL,Yes,Credit card,Yes
+SYN0208,68,73.97,5405.53,Two year,No,Yes,Bank transfer,Yes
+SYN0209,50,113.29,5991.36,One year,No,Yes,Bank transfer,No
+SYN0210,14,94.44,1283.1,Two year,Fiber optic,Yes,Electronic check,Yes
+SYN0211,23,99.73,2148.03,Two year,Fiber optic,No,Credit card,Yes
+SYN0212,59,28.33,1609.82,Month-to-month,DSL,Yes,Electronic check,No
+SYN0213,51,114.02,6109.6,Two year,Fiber optic,No,Electronic check,Yes
+SYN0214,46,102.59,4364.71,Month-to-month,No,No,Bank transfer,Yes
+SYN0215,52,91.9,4962.37,One year,Fiber optic,Yes,Bank transfer,No
+SYN0216,67,49.0,3237.44,Month-to-month,No,No,Electronic check,No
+SYN0217,24,74.09,1835.39,One year,DSL,Yes,Bank transfer,No
+SYN0218,55,40.0,2299.8,One year,Fiber optic,No,Electronic check,No
+SYN0219,56,49.71,2791.05,Month-to-month,DSL,No,Bank transfer,No
+SYN0220,21,110.75,2151.89,Month-to-month,No,No,Electronic check,Yes
+SYN0221,47,57.59,2679.62,Two year,DSL,Yes,Credit card,No
+SYN0222,57,93.68,5141.53,Two year,DSL,No,Bank transfer,No
+SYN0223,15,27.33,378.61,Month-to-month,Fiber optic,No,Credit card,No
+SYN0224,58,44.31,2376.02,Two year,Fiber optic,No,Electronic check,No
+SYN0225,58,40.54,2571.2,Two year,Fiber optic,Yes,Credit card,No
+SYN0226,45,88.86,4279.7,Two year,No,No,Bank transfer,No
+SYN0227,23,96.43,2347.44,Two year,DSL,Yes,Electronic check,No
+SYN0228,64,27.37,1858.06,Two year,No,No,Bank transfer,No
+SYN0229,12,30.92,364.42,One year,No,No,Credit card,No
+SYN0230,10,36.28,360.32,One year,No,Yes,Bank transfer,No
+SYN0231,17,104.02,1744.51,Two year,No,Yes,Electronic check,No
+SYN0232,8,99.83,744.65,Two year,DSL,No,Electronic check,No
+SYN0233,29,56.14,1529.17,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0234,36,36.27,1342.54,One year,No,Yes,Credit card,No
+SYN0235,20,40.41,734.04,Two year,No,No,Credit card,No
+SYN0236,11,29.09,301.48,Two year,No,No,Credit card,No
+SYN0237,4,69.82,304.79,Two year,No,No,Credit card,No
+SYN0238,52,51.77,2659.52,Month-to-month,No,Yes,Electronic check,No
+SYN0239,27,55.62,1648.32,Month-to-month,Fiber optic,No,Credit card,Yes
+SYN0240,52,36.77,1813.28,One year,No,Yes,Bank transfer,No
+SYN0241,58,47.31,2943.83,Month-to-month,DSL,No,Bank transfer,No
+SYN0242,21,98.21,2170.94,Two year,No,No,Electronic check,No
+SYN0243,66,67.01,4816.48,One year,Fiber optic,Yes,Electronic check,No
+SYN0244,31,44.36,1373.76,One year,DSL,Yes,Bank transfer,No
+SYN0245,61,50.72,3330.58,Month-to-month,DSL,No,Electronic check,No
+SYN0246,52,57.93,3044.43,One year,DSL,Yes,Bank transfer,No
+SYN0247,65,65.53,4664.17,Two year,Fiber optic,Yes,Electronic check,No
+SYN0248,44,75.2,3314.84,One year,DSL,Yes,Credit card,No
+SYN0249,6,28.5,169.53,Two year,Fiber optic,No,Credit card,No
+SYN0250,66,37.58,2723.65,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0251,39,78.44,3097.66,Two year,No,No,Credit card,No
+SYN0252,3,58.15,167.74,Two year,DSL,No,Credit card,No
+SYN0253,4,78.72,286.63,One year,No,Yes,Credit card,No
+SYN0254,68,81.61,5263.34,Two year,Fiber optic,Yes,Credit card,No
+SYN0255,15,42.17,621.54,One year,Fiber optic,No,Electronic check,Yes
+SYN0256,65,94.75,5712.96,One year,No,Yes,Credit card,No
+SYN0257,42,114.83,5263.37,One year,No,No,Bank transfer,No
+SYN0258,69,55.81,3838.71,One year,No,No,Credit card,No
+SYN0259,36,75.23,2549.73,Month-to-month,Fiber optic,No,Credit card,No
+SYN0260,41,68.18,2583.98,Two year,No,No,Bank transfer,No
+SYN0261,49,105.62,4701.38,One year,Fiber optic,Yes,Bank transfer,No
+SYN0262,11,56.17,615.28,One year,No,No,Credit card,Yes
+SYN0263,69,49.4,3142.2,Two year,No,No,Electronic check,No
+SYN0264,31,46.82,1373.87,Two year,No,Yes,Credit card,No
+SYN0265,43,89.56,4208.86,Month-to-month,No,Yes,Electronic check,No
+SYN0266,21,61.62,1247.74,One year,Fiber optic,Yes,Bank transfer,No
+SYN0267,12,83.71,988.02,Month-to-month,No,Yes,Electronic check,No
+SYN0268,5,114.75,626.78,One year,Fiber optic,Yes,Credit card,No
+SYN0269,5,25.83,123.59,Two year,No,Yes,Bank transfer,No
+SYN0270,70,72.19,4742.84,Month-to-month,No,No,Bank transfer,Yes
+SYN0271,21,90.8,1997.04,Two year,Fiber optic,Yes,Electronic check,No
+SYN0272,25,40.79,984.66,Two year,Fiber optic,No,Credit card,No
+SYN0273,13,41.63,487.81,Month-to-month,Fiber optic,No,Electronic check,Yes
+SYN0274,58,92.84,5550.23,One year,Fiber optic,Yes,Bank transfer,No
+SYN0275,8,85.1,706.14,One year,Fiber optic,Yes,Bank transfer,No
+SYN0276,40,87.13,3290.62,Two year,Fiber optic,No,Credit card,No
+SYN0277,62,38.79,2502.11,Two year,No,No,Bank transfer,No
+SYN0278,69,97.18,6634.0,Month-to-month,DSL,Yes,Credit card,No
+SYN0279,10,107.55,1083.39,Month-to-month,DSL,Yes,Credit card,Yes
+SYN0280,67,64.77,4685.79,Two year,DSL,No,Electronic check,No
+SYN0281,8,65.81,479.91,Two year,Fiber optic,No,Credit card,Yes
+SYN0282,40,90.1,3400.66,One year,Fiber optic,Yes,Credit card,Yes
+SYN0283,55,56.01,3380.06,Month-to-month,No,Yes,Electronic check,No
+SYN0284,37,61.8,2511.99,Month-to-month,No,No,Bank transfer,Yes
+SYN0285,49,58.81,3089.34,Two year,No,Yes,Credit card,No
+SYN0286,69,60.38,4379.68,Month-to-month,No,Yes,Electronic check,No
+SYN0287,60,85.61,4877.21,Two year,Fiber optic,No,Electronic check,No
+SYN0288,36,41.96,1486.16,Two year,DSL,Yes,Credit card,No
+SYN0289,3,46.66,142.72,Month-to-month,DSL,Yes,Bank transfer,No
+SYN0290,7,47.03,331.83,Month-to-month,Fiber optic,No,Electronic check,No
+SYN0291,8,37.61,306.77,One year,DSL,No,Credit card,No
+SYN0292,42,46.32,1867.82,Month-to-month,No,Yes,Bank transfer,Yes
+SYN0293,23,81.34,2047.53,One year,No,No,Electronic check,No
+SYN0294,49,95.72,4361.23,One year,No,No,Bank transfer,No
+SYN0295,69,67.62,5052.8,Month-to-month,Fiber optic,Yes,Bank transfer,No
+SYN0296,54,75.16,3817.83,Month-to-month,Fiber optic,Yes,Bank transfer,No
+SYN0297,58,101.24,5600.0,Month-to-month,No,Yes,Electronic check,No
+SYN0298,6,103.63,585.58,Month-to-month,No,Yes,Bank transfer,No
+SYN0299,39,111.13,4002.35,Month-to-month,DSL,Yes,Credit card,No
+SYN0300,62,107.3,7204.93,Two year,No,Yes,Bank transfer,No
+SYN0301,37,59.26,2088.06,Two year,No,No,Bank transfer,No
+SYN0302,64,66.94,4173.38,Two year,Fiber optic,No,Electronic check,No
+SYN0303,29,91.71,2474.7,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0304,49,76.28,3934.59,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0305,63,66.47,4372.13,Two year,Fiber optic,Yes,Electronic check,No
+SYN0306,70,114.13,8700.43,Month-to-month,No,Yes,Electronic check,No
+SYN0307,1,62.12,57.78,Two year,DSL,Yes,Credit card,No
+SYN0308,59,58.59,3448.41,Two year,No,No,Credit card,Yes
+SYN0309,71,62.02,4823.93,Month-to-month,No,No,Credit card,Yes
+SYN0310,56,97.56,5079.72,Month-to-month,DSL,Yes,Credit card,Yes
+SYN0311,68,47.72,3162.57,One year,Fiber optic,No,Electronic check,No
+SYN0312,32,114.12,4010.94,Month-to-month,Fiber optic,Yes,Credit card,No
+SYN0313,5,33.42,171.67,One year,Fiber optic,No,Electronic check,No
+SYN0314,11,69.99,843.39,One year,No,No,Credit card,No
+SYN0315,68,107.72,6660.68,Month-to-month,DSL,No,Bank transfer,Yes
+SYN0316,36,105.94,4140.89,Two year,No,Yes,Electronic check,No
+SYN0317,27,77.83,1959.54,Two year,Fiber optic,Yes,Bank transfer,Yes
+SYN0318,50,85.93,3987.11,Two year,Fiber optic,No,Credit card,No
+SYN0319,11,70.07,729.48,One year,DSL,Yes,Bank transfer,Yes
+SYN0320,51,112.2,5711.45,One year,DSL,No,Bank transfer,No
+SYN0321,49,63.87,3299.99,Two year,No,No,Electronic check,No
+SYN0322,32,89.18,2974.58,Month-to-month,Fiber optic,Yes,Bank transfer,No
+SYN0323,50,53.5,2645.43,Month-to-month,DSL,Yes,Bank transfer,No
+SYN0324,14,36.93,522.68,Month-to-month,Fiber optic,No,Credit card,Yes
+SYN0325,4,33.07,119.38,Two year,DSL,No,Bank transfer,No
+SYN0326,11,90.24,968.96,Two year,DSL,Yes,Credit card,Yes
+SYN0327,39,49.16,1831.33,Month-to-month,DSL,Yes,Bank transfer,No
+SYN0328,10,57.5,588.42,Month-to-month,No,No,Credit card,Yes
+SYN0329,18,52.42,932.28,One year,Fiber optic,No,Bank transfer,No
+SYN0330,18,52.04,901.91,Two year,No,Yes,Bank transfer,No
+SYN0331,41,51.23,2218.88,Two year,No,No,Credit card,No
+SYN0332,36,98.48,3332.42,One year,Fiber optic,Yes,Credit card,No
+SYN0333,24,86.35,1952.06,Two year,DSL,No,Credit card,No
+SYN0334,9,98.71,912.08,One year,No,No,Electronic check,Yes
+SYN0335,20,89.37,1779.98,One year,DSL,No,Credit card,No
+SYN0336,65,108.11,7310.53,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0337,11,34.84,394.51,Month-to-month,No,No,Electronic check,Yes
+SYN0338,52,112.01,5356.94,One year,Fiber optic,Yes,Electronic check,No
+SYN0339,67,75.22,4912.86,Two year,No,Yes,Bank transfer,No
+SYN0340,65,38.57,2464.92,Month-to-month,Fiber optic,Yes,Bank transfer,No
+SYN0341,15,99.82,1450.3,Two year,DSL,No,Bank transfer,No
+SYN0342,67,68.46,4767.32,One year,DSL,No,Credit card,No
+SYN0343,39,29.02,1165.27,Two year,DSL,Yes,Bank transfer,No
+SYN0344,22,108.69,2228.64,Two year,DSL,Yes,Credit card,No
+SYN0345,60,45.87,2829.53,One year,No,Yes,Electronic check,No
+SYN0346,4,91.36,329.22,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0347,36,92.71,3128.6,Month-to-month,No,Yes,Credit card,Yes
+SYN0348,59,35.26,2034.01,Two year,Fiber optic,No,Credit card,No
+SYN0349,15,56.31,879.45,One year,No,Yes,Credit card,No
+SYN0350,11,85.49,868.35,One year,DSL,Yes,Bank transfer,No
+SYN0351,19,70.97,1317.07,One year,No,Yes,Credit card,No
+SYN0352,69,87.41,5776.57,Two year,DSL,Yes,Bank transfer,No
+SYN0353,58,80.75,4397.93,One year,DSL,No,Electronic check,No
+SYN0354,72,70.49,5288.59,One year,Fiber optic,No,Bank transfer,No
+SYN0355,22,32.44,681.54,Month-to-month,DSL,No,Electronic check,No
+SYN0356,22,95.27,2100.47,Two year,No,No,Credit card,No
+SYN0357,35,94.76,3277.71,One year,No,Yes,Credit card,No
+SYN0358,55,34.22,1863.18,Two year,DSL,No,Electronic check,No
+SYN0359,12,64.52,787.85,Month-to-month,DSL,Yes,Credit card,Yes
+SYN0360,55,39.94,2227.49,Month-to-month,DSL,Yes,Electronic check,No
+SYN0361,69,40.15,2641.44,Two year,Fiber optic,No,Credit card,No
+SYN0362,13,37.2,447.51,One year,DSL,No,Credit card,No
+SYN0363,32,38.16,1133.73,One year,DSL,No,Bank transfer,No
+SYN0364,54,58.77,3183.49,Month-to-month,No,Yes,Bank transfer,No
+SYN0365,48,65.92,2906.69,One year,Fiber optic,Yes,Credit card,No
+SYN0366,46,101.51,4972.83,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0367,42,99.55,4475.8,One year,No,Yes,Credit card,No
+SYN0368,7,29.13,221.42,Two year,Fiber optic,Yes,Electronic check,Yes
+SYN0369,59,25.06,1419.95,One year,DSL,Yes,Credit card,No
+SYN0370,36,33.4,1241.96,One year,Fiber optic,Yes,Bank transfer,No
+SYN0371,7,60.67,437.9,One year,No,Yes,Bank transfer,No
+SYN0372,1,44.21,45.8,Month-to-month,DSL,Yes,Credit card,Yes
+SYN0373,44,98.54,3963.6,One year,No,Yes,Bank transfer,No
+SYN0374,14,34.29,506.32,One year,Fiber optic,Yes,Bank transfer,No
+SYN0375,18,82.74,1508.17,Two year,DSL,Yes,Credit card,No
+SYN0376,22,64.61,1454.42,Two year,DSL,Yes,Bank transfer,No
+SYN0377,28,32.8,960.65,Month-to-month,DSL,Yes,Credit card,No
+SYN0378,55,53.31,2688.25,Month-to-month,DSL,No,Credit card,No
+SYN0379,37,95.11,3531.56,Two year,DSL,No,Electronic check,No
+SYN0380,51,51.6,2427.78,Month-to-month,DSL,No,Bank transfer,No
+SYN0381,10,72.55,709.08,Month-to-month,Fiber optic,No,Electronic check,No
+SYN0382,54,57.89,2823.89,Two year,DSL,No,Electronic check,Yes
+SYN0383,34,44.42,1574.51,Month-to-month,Fiber optic,No,Credit card,No
+SYN0384,55,88.16,4444.99,Month-to-month,No,Yes,Bank transfer,Yes
+SYN0385,27,112.69,3095.23,Month-to-month,No,No,Bank transfer,No
+SYN0386,9,52.92,451.94,One year,No,Yes,Electronic check,No
+SYN0387,15,65.8,1034.71,Two year,DSL,No,Credit card,No
+SYN0388,16,26.14,417.94,Month-to-month,No,Yes,Electronic check,No
+SYN0389,67,95.47,5919.22,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0390,35,90.96,3038.42,Month-to-month,DSL,No,Bank transfer,Yes
+SYN0391,10,69.65,746.56,Two year,Fiber optic,Yes,Bank transfer,Yes
+SYN0392,21,47.96,1055.66,Month-to-month,No,Yes,Electronic check,Yes
+SYN0393,2,47.01,87.98,One year,Fiber optic,No,Electronic check,No
+SYN0394,5,74.76,360.48,Two year,No,No,Electronic check,No
+SYN0395,41,49.41,2026.64,Month-to-month,No,No,Electronic check,No
+SYN0396,23,45.09,1115.26,Two year,DSL,No,Electronic check,No
+SYN0397,40,54.46,2047.99,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0398,39,91.56,3907.83,Month-to-month,Fiber optic,No,Credit card,No
+SYN0399,26,90.92,2568.35,Two year,DSL,Yes,Electronic check,Yes
+SYN0400,70,56.18,4136.25,Two year,DSL,No,Electronic check,No
+SYN0401,40,34.36,1501.17,Two year,DSL,No,Bank transfer,No
+SYN0402,19,89.05,1662.53,Month-to-month,DSL,Yes,Credit card,No
+SYN0403,59,112.71,6162.47,Month-to-month,No,Yes,Credit card,No
+SYN0404,10,78.27,750.09,Month-to-month,Fiber optic,Yes,Electronic check,No
+SYN0405,51,88.07,4286.71,Two year,Fiber optic,No,Bank transfer,Yes
+SYN0406,26,37.25,903.49,Two year,DSL,Yes,Electronic check,No
+SYN0407,53,35.87,1887.17,One year,DSL,No,Bank transfer,No
+SYN0408,12,39.19,501.88,Two year,Fiber optic,Yes,Electronic check,No
+SYN0409,12,89.0,1025.03,One year,Fiber optic,Yes,Credit card,No
+SYN0410,23,27.8,634.55,One year,Fiber optic,Yes,Electronic check,No
+SYN0411,18,35.93,688.61,Month-to-month,DSL,Yes,Electronic check,No
+SYN0412,11,77.41,800.04,One year,DSL,Yes,Electronic check,No
+SYN0413,17,33.28,514.91,One year,DSL,Yes,Bank transfer,No
+SYN0414,56,98.95,5744.24,One year,Fiber optic,Yes,Bank transfer,No
+SYN0415,28,106.75,2710.81,One year,Fiber optic,No,Electronic check,No
+SYN0416,32,83.26,2444.63,One year,Fiber optic,No,Electronic check,Yes
+SYN0417,54,42.95,2450.07,Two year,DSL,Yes,Bank transfer,No
+SYN0418,70,95.33,6366.72,One year,No,No,Bank transfer,Yes
+SYN0419,29,27.64,778.7,One year,DSL,No,Credit card,No
+SYN0420,30,112.66,3402.57,Month-to-month,DSL,Yes,Bank transfer,No
+SYN0421,8,93.76,815.37,Month-to-month,No,No,Bank transfer,No
+SYN0422,23,40.85,850.9,Two year,Fiber optic,No,Credit card,No
+SYN0423,19,75.68,1435.17,Month-to-month,Fiber optic,No,Electronic check,Yes
+SYN0424,30,79.15,2294.59,Month-to-month,No,No,Electronic check,No
+SYN0425,17,55.67,879.71,Month-to-month,Fiber optic,Yes,Electronic check,No
+SYN0426,19,94.69,1872.71,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0427,13,55.29,783.27,One year,DSL,Yes,Credit card,No
+SYN0428,63,83.43,5430.1,Month-to-month,No,No,Electronic check,No
+SYN0429,49,52.61,2695.87,Two year,Fiber optic,Yes,Electronic check,No
+SYN0430,51,101.57,4991.74,Two year,DSL,Yes,Credit card,No
+SYN0431,29,82.57,2512.03,Month-to-month,Fiber optic,Yes,Bank transfer,Yes
+SYN0432,41,40.11,1483.81,Month-to-month,No,No,Bank transfer,Yes
+SYN0433,9,56.54,497.25,Month-to-month,No,Yes,Electronic check,No
+SYN0434,22,104.61,2244.04,One year,Fiber optic,No,Credit card,No
+SYN0435,29,39.64,1107.88,Month-to-month,DSL,No,Electronic check,No
+SYN0436,10,55.76,606.87,One year,DSL,Yes,Credit card,No
+SYN0437,44,78.46,3757.72,Two year,Fiber optic,Yes,Bank transfer,Yes
+SYN0438,56,39.14,2152.07,Month-to-month,Fiber optic,Yes,Electronic check,No
+SYN0439,70,48.87,3112.77,One year,Fiber optic,Yes,Electronic check,No
+SYN0440,63,38.82,2345.17,One year,DSL,No,Electronic check,No
+SYN0441,62,42.97,2553.21,Month-to-month,DSL,Yes,Credit card,Yes
+SYN0442,15,52.75,754.06,One year,Fiber optic,No,Credit card,No
+SYN0443,50,41.64,1892.38,One year,Fiber optic,Yes,Bank transfer,No
+SYN0444,34,45.36,1620.04,One year,No,Yes,Electronic check,No
+SYN0445,11,85.13,854.21,Two year,Fiber optic,Yes,Credit card,No
+SYN0446,67,62.68,4520.12,Two year,No,No,Credit card,No
+SYN0447,11,60.53,725.66,Two year,DSL,Yes,Electronic check,No
+SYN0448,22,112.49,2266.09,Month-to-month,DSL,Yes,Bank transfer,No
+SYN0449,26,114.75,3228.63,Two year,DSL,No,Bank transfer,No
+SYN0450,9,32.83,296.63,Two year,Fiber optic,No,Bank transfer,No
+SYN0451,2,95.79,188.3,Two year,No,No,Electronic check,Yes
+SYN0452,13,108.24,1514.1,Two year,DSL,No,Credit card,No
+SYN0453,34,59.47,1889.42,One year,No,No,Electronic check,No
+SYN0454,52,28.49,1554.29,One year,No,Yes,Electronic check,No
+SYN0455,48,26.82,1379.6,One year,Fiber optic,No,Bank transfer,No
+SYN0456,30,37.09,1163.62,Two year,Fiber optic,No,Bank transfer,No
+SYN0457,12,41.91,539.85,Month-to-month,Fiber optic,No,Credit card,No
+SYN0458,66,96.23,6707.5,Month-to-month,Fiber optic,No,Electronic check,Yes
+SYN0459,4,40.64,161.14,Month-to-month,DSL,Yes,Electronic check,No
+SYN0460,26,49.66,1400.41,One year,No,No,Credit card,No
+SYN0461,31,58.52,1845.64,Two year,Fiber optic,Yes,Bank transfer,No
+SYN0462,21,100.39,1908.95,One year,No,Yes,Bank transfer,Yes
+SYN0463,28,102.14,2946.63,Two year,DSL,Yes,Bank transfer,No
+SYN0464,2,67.67,143.48,Month-to-month,No,Yes,Credit card,Yes
+SYN0465,40,89.15,3848.06,Two year,No,No,Bank transfer,No
+SYN0466,59,47.68,2589.37,One year,Fiber optic,No,Credit card,No
+SYN0467,48,75.53,3759.16,Two year,No,No,Bank transfer,No
+SYN0468,44,113.95,5170.35,Two year,Fiber optic,No,Bank transfer,No
+SYN0469,39,41.95,1604.67,Two year,DSL,Yes,Credit card,No
+SYN0470,18,89.92,1750.28,Two year,Fiber optic,No,Bank transfer,Yes
+SYN0471,5,77.47,403.88,Two year,DSL,No,Credit card,No
+SYN0472,61,106.59,6944.96,Two year,Fiber optic,No,Electronic check,No
+SYN0473,24,51.44,1310.69,One year,DSL,No,Credit card,No
+SYN0474,24,110.22,2568.72,One year,No,Yes,Electronic check,No
+SYN0475,40,62.84,2410.07,One year,Fiber optic,No,Credit card,No
+SYN0476,61,29.83,1961.35,Two year,No,Yes,Bank transfer,No
+SYN0477,49,72.69,3912.54,One year,DSL,Yes,Electronic check,No
+SYN0478,59,37.89,2160.68,Two year,DSL,Yes,Bank transfer,No
+SYN0479,41,82.1,3541.94,Month-to-month,Fiber optic,No,Electronic check,Yes
+SYN0480,21,69.06,1429.79,Month-to-month,DSL,No,Credit card,Yes
+SYN0481,62,59.5,3595.37,Month-to-month,No,Yes,Credit card,Yes
+SYN0482,42,93.12,3523.16,Two year,DSL,Yes,Credit card,No
+SYN0483,29,87.42,2476.14,One year,Fiber optic,Yes,Electronic check,No
+SYN0484,22,30.88,710.32,Month-to-month,Fiber optic,No,Bank transfer,Yes
+SYN0485,44,64.03,2738.01,Two year,DSL,No,Bank transfer,No
+SYN0486,52,26.72,1454.49,Month-to-month,No,Yes,Electronic check,No
+SYN0487,22,36.08,853.54,Two year,No,Yes,Bank transfer,No
+SYN0488,69,81.08,5970.61,Two year,DSL,Yes,Credit card,Yes
+SYN0489,15,62.51,975.51,One year,DSL,No,Bank transfer,Yes
+SYN0490,2,52.1,106.4,Two year,DSL,No,Credit card,Yes
+SYN0491,14,71.04,1051.2,Two year,DSL,No,Electronic check,No
+SYN0492,26,95.02,2425.93,Two year,DSL,No,Credit card,Yes
+SYN0493,71,69.67,4683.91,Month-to-month,No,No,Bank transfer,Yes
+SYN0494,12,106.62,1394.45,Two year,No,No,Electronic check,No
+SYN0495,10,90.12,989.28,Month-to-month,Fiber optic,Yes,Bank transfer,Yes
+SYN0496,60,29.51,1877.4,Month-to-month,DSL,No,Bank transfer,No
+SYN0497,15,33.55,518.07,Month-to-month,DSL,Yes,Credit card,Yes
+SYN0498,57,110.96,6723.13,One year,No,Yes,Bank transfer,No
+SYN0499,52,61.02,3395.58,One year,Fiber optic,No,Credit card,No
+SYN0500,22,35.18,712.62,Two year,No,Yes,Electronic check,No

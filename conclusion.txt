@@ -1,0 +1,5 @@
+Rows: 500
+Encoded features: 14
+Components to retain >=95% variance: 9
+Variance retained by 2 components: 29.43%
+Interpretation: Inspect pca_churn_scatter.png. Overlapping churn groups indicate weak visual separation; distinct clusters indicate stronger separation. PCA is unsupervised and 2D may lose information.
